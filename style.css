@@ -1,3 +1,19 @@
 body {
-    background: blue;
+    background: white;
+  }
+
+  header {
+      background: lightgreen
+  }
+
+  p {
+      margin-right: 600px
+  }
+
+  footer {
+      background: lightgreen
+  }
+
+  footer {
+      margin-left: 0
   }
