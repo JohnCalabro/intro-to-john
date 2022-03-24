@@ -3,12 +3,7 @@
 
 //document.querySelector("body").appendChild(h2);
 
-function addingEventListener() {
-    const John = document.getElementById('John');
+function myFunction() {
+    document.getElementById("demo").innerHTML = "When I'm not coding or writing, I love to be in nature!";
+  }
 
-    function clickAlert() {
-      alert('I was clicked!');
-    }
-    
-    John.addEventListener('click', clickAlert);
-}
