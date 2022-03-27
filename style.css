@@ -7,7 +7,7 @@ body {
   }
 
   p {
-      margin-right: 600px
+     text-align: center;
   }
 
   footer {
@@ -16,4 +16,45 @@ body {
 
   img {
     border: 5px solid #555;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+
+
+  h1 {
+      font-family: Verdana;
+      text-align: center;
+  }
+  
+  h2 {
+    font-family: Geneva;
+    text-align: center;
+  }
+
+  h3 {
+      font-family: sans-serif;
+      text-align: center;
+  }
+
+  ul {
+      list-style-position: inside;
+      font-size: 14px;
+      font-family: Verdana
+  }
+
+  p {
+    text-align: center;
+    color: blue;
+    font-family: Verdana
+  }
+
+  p {
+      font-size: 14px
+  }
+
+  body {
+      margin-left: 20px;
+      margin-right:20px;
   }
